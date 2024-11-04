@@ -1,0 +1,34 @@
+body {
+    text-align: center; 
+    background-color:skyblue;
+    background-image: url(https://static.wikia.nocookie.net/kenganashura/images/a/a9/Purgatory%21.png/revision/latest?cb=20190823220759);
+    background-size: cover;
+
+
+}
+
+
+
+img {
+
+    width:150px;
+    border-radius: 30px;
+    border: 5px mediumvioletred;
+    allign-content:center;
+    justify-content: center;
+            
+        }
+
+h1 {
+
+  .pirata-one-regular {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+        text-align: center;
+        color:#FF0000;
+    }
